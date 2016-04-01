@@ -2319,8 +2319,7 @@ html {
  */
 body {
   margin: 0;
-  line-height: 1;
-   background: #0d232e url(../img/splash.png); }
+  line-height: 1; }
 
 /**
  * Remove default outlines.
