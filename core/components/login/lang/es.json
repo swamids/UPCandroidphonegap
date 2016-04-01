@@ -21,5 +21,6 @@
     "siteurlrequired": "La URL del sitio es obligatoria, por ejemplo <i>http://www.yourmoodlesite.es o  https://www.yourmoodlesite.org</i>",
     "username": "Nombre de usuario",
     "usernamerequired": "Nombre de usuario obligatorio",
+    "newsitedescription": "Bienvenido, por favor ingrese la URl correspondiente al moodle de la Universidad Piloto De Colombia.",
     "webservicesnotenabled": "Los Servicios Web no están habilitados en su sitio, por favor, contacte con su administrador de Moodle si piensa que deberían estarlo."
 }
