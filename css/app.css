@@ -2318,8 +2318,12 @@ html {
  * Remove default margin.
  */
 body {
-  margin: 0;
-  line-height: 1; }
+  color: #666666;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-size: .875rem;
+  line-height: 24px;
+  background: #0d232e url(../img/bg-orange.png);
 
 /**
  * Remove default outlines.
