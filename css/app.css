@@ -2266,7 +2266,12 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   font: inherit;
   font-size: 100%; 
 
-  
+  color: #666666;
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-size: .875rem;
+  line-height: 24px;
+  background: #0d232e url(../img/splash.png);
 }
 
 ol, ul {
