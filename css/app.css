@@ -2318,8 +2318,10 @@ html {
  * Remove default margin.
  */
 body {
+  color: #666666;
   margin: 0;
-  line-height: 1; }
+  line-height: 1; 
+  background: #0d232e url(../img/bg-orange.png);}
 
 /**
  * Remove default outlines.
