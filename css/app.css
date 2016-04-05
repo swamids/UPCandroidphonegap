@@ -2580,7 +2580,7 @@ body, .ionic-body {
   -webkit-backface-visibility: hidden;
   -webkit-user-drag: none;
   -ms-content-zooming: none; 
-background: #0d232e url(../img/splash.png);}
+}
 
 body.grade-b, body.grade-c {
   text-rendering: auto; }
