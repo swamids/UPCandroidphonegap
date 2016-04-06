@@ -657,5 +657,6 @@
     "mma.notifications.errorgetnotifications": "Error al obtener notificaciones",
     "mma.notifications.notifications": "Notificaciones",
     "mma.notifications.therearentnotificationsyet": "No hay notificaciones",
+	"mm.login.newsitedescription": "Por favor ingrese la URl virtual.unipiloto.edu.co.",
     "mma.participants.participants": "Participantes"
 }
