@@ -7688,15 +7688,15 @@ em {
  /* background-color: #f70;*/
  background: #0d232e;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
-  color: #fff; }
+  color: #0d232e; }
   .bar-content .title {
-    color: #fff; }
+    color: #0d232e; }
   .bar-content .button {
     border-color: transparent;
     background-color: #f70;
-    color: #fff; }
+    color: #0d232e; }
     .bar-content .button:hover {
-      color: #fff;
+      color: #0d232e;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
@@ -7706,7 +7706,7 @@ em {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #fff;
+      color: #0d232e;
       font-size: 17px; }
     .bar-content .button.button-icon {
       border-color: transparent;
