@@ -2267,7 +2267,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   font-size: 100%;  
   
  
-  background: #0d232e;
+  background: #0d232e url(../img/splash.png);
   }
 
 ol, ul {
@@ -7688,15 +7688,15 @@ em {
  /* background-color: #f70;*/
  background: #0d232e;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
-  color: #0d232e; }
+  color: #fff; }
   .bar-content .title {
-    color: #0d232e; }
+    color: #fff; }
   .bar-content .button {
     border-color: transparent;
     background-color: #f70;
-    color: #0d232e; }
+    color: #fff; }
     .bar-content .button:hover {
-      color: #0d232e;
+      color: #fff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
@@ -7706,7 +7706,7 @@ em {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #0d232e;
+      color: #fff;
       font-size: 17px; }
     .bar-content .button.button-icon {
       border-color: transparent;
