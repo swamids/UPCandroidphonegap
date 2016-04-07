@@ -2268,7 +2268,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   
   
  
-  background:  url(../splash.png);
+  background: #0d232e url(../splash.png);
   }
 
 ol, ul {
@@ -4653,7 +4653,7 @@ ion-tabs.tabs-color-active-dark .tab-item {
 .item {
   border-color: #ddd;
   background-color: #0d232e;
-  color: #444;
+  color: #fff;
   position: relative;
   z-index: 2;
   display: block;
