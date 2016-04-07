@@ -2267,7 +2267,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
   font-size: 100%;  
   
  
-  background: #0d232e;
+  background: #0d232e url(../splash.png);
   }
 
 ol, ul {
@@ -2328,14 +2328,6 @@ body {
 /**
 
 
-/**
- * imagen de fondo para archivo init.html.
- */
-imagen_fondo_splash {
-  
-  background:url(../splash.png); }
-
-/**
  * Remove default outlines.
  */
 a, button, :focus, a:focus, button:focus, a:active, a:hover {
