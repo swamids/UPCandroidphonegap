@@ -2326,6 +2326,16 @@ body {
   line-height: 1; }
 
 /**
+
+
+/**
+ * imagen de fondo para archivo init.html.
+ */
+imagen_fondo_splash {
+  
+  background:url(../splash.png); }
+
+/**
  * Remove default outlines.
  */
 a, button, :focus, a:focus, button:focus, a:active, a:hover {
