@@ -5800,7 +5800,8 @@ input, button, select, textarea {
   .item-stacked-label .input-label, .item-stacked-label .icon {
     display: inline-block;
     padding: 4px 0 0 0px;
-    vertical-align: middle; }
+    vertical-align: middle;
+    color:#fff;}
 
 .item-stacked-label input, .item-stacked-label textarea {
   -webkit-border-radius: 2px;

@@ -13,6 +13,7 @@
     "login": "Entrar",
     "logininsiterequired": "Para autentificarse en el sitio se ha de abrir una ventana de navegador.",
     "mobileservicesnotenabled": "El acceso móvil no está habilitado para este sitio, por favor, contacte con su administrador si piensa que debería estar habilitado.",
+    "newsitedescription": "Bienvenido, por favor ingrese la URl correspondiente al moodle de la Universidad Piloto De Colombia.",
     "password": "Contraseña",
     "passwordrequired": "Contraseña obligatoria",
     "reconnect": "Reconectar",
