@@ -2818,7 +2818,8 @@ h1, .h1, h2, .h2, h3, .h3 {
   margin-top: 20px;
   margin-bottom: 10px; }
   h1:first-child, .h1:first-child, h2:first-child, .h2:first-child, h3:first-child, .h3:first-child {
-    margin-top: 0; }
+    margin-top: 0;
+     color:#fff}
   h1 + h1, h1 + .h1, h1 + h2, h1 + .h2, h1 + h3, h1 + .h3, .h1 + h1, .h1 + .h1, .h1 + h2, .h1 + .h2, .h1 + h3, .h1 + .h3, h2 + h1, h2 + .h1, h2 + h2, h2 + .h2, h2 + h3, h2 + .h3, .h2 + h1, .h2 + .h1, .h2 + h2, .h2 + .h2, .h2 + h3, .h2 + .h3, h3 + h1, h3 + .h1, h3 + h2, h3 + .h2, h3 + h3, h3 + .h3, .h3 + h1, .h3 + .h1, .h3 + h2, .h3 + .h2, .h3 + h3, .h3 + .h3 {
     margin-top: 10px; }
 
@@ -3182,7 +3183,8 @@ a.subdued {
     white-space: nowrap;
     font-size: 17px;
     font-weight: 500;
-    line-height: 44px; }
+    line-height: 44px;
+     color:#fff;}
     .bar .title.title-left {
       text-align: left; }
     .bar .title.title-right {
@@ -3251,7 +3253,7 @@ a.subdued {
   font-size: 24px; }
 .platform-android .bar .title {
   font-size: 19px;
-  line-height: 44px; }
+  line-height: 44px;}
 
 .bar-light .button {
   border-color: #ddd;
@@ -7319,6 +7321,8 @@ a.button {
   pointer-events: auto; }
 
 .disable-user-behavior {
+
+  background-color:#0d232e;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
